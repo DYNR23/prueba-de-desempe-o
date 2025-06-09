@@ -72,7 +72,7 @@ Se han diseñado las páginas para adaptarse a los siguientes tamaños:
 
 ## Enlaces
 
-- [Repositorio en GitHub](https://github.com/tu-usuario/tu-repo) *(Reemplaza con tu URL real)*
+- [Repositorio en GitHub](https://github.com/DYNR23/prueba-de-desempe-o.git) 
 
 ---
 
